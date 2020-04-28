@@ -1,0 +1,14 @@
+html, body, #app, .swiper-container {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-size: $text-df;
+  color: $text-color;
+  user-select: none;
+}
+
+* {
+  box-sizing: border-box;
+}
